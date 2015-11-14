@@ -1,0 +1,11 @@
+This project logo file will be combine with 5 letters.
+
+**P** will be use a picture of human hand with human body , like put hand next your head
+
+**R** will with two legs
+
+**O** will be eye because it do the observation
+
+**V** like heart
+
+**E** like mind
